@@ -1,3 +1,4 @@
+// Autor: jocampo-backend – Integración con JWT
 package com.sigl.gestionleads.data
 
 import android.content.ContentValues
