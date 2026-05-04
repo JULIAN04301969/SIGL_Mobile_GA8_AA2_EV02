@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SIGL Mobile</string>
+
+    <!-- Textos de la pantalla de login -->
+    <string name="hint_usuario">Correo electrónico</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="btn_ingresar">INICIAR SESIÓN</string>
+
+    <!-- Mensajes de validación -->
+    <string name="error_campos_vacios">Por favor complete todos los campos</string>
+    <string name="error_credenciales">Credenciales incorrectas. Intente de nuevo.</string>
+
+    <!-- Mensaje de bienvenida (Dashboard) -->
+    <string name="bienvenido">Bienvenido/a</string>
+</resources>

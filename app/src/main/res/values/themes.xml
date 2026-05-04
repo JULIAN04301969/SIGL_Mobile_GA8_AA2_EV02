@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema base Material Components (hereda de AppCompat) -->
+    <style name="Theme.SIGL_Mobile" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Aquí puedes personalizar colores -->
+    </style>
+</resources>
