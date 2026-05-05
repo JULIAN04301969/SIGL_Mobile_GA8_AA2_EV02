@@ -107,5 +107,6 @@ class DatabaseHelper(context: Context) : SQLiteOpenHelper(
         val resultado = db.insert(TABLE_USUARIOS, null, content)
         db.close()
         return resultado != -1L
+        // Integración por jocampo-backend
     }
 }
